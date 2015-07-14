@@ -1,5 +1,2 @@
 # how to find and delete files with given extension in a directory and its sub-directories
-
-```
 find /path/to/base/dir -name \*.bak -exec rm {} \;
-```
